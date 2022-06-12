@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dharmesh Sharma
 - 👀 I’m interested in Website Development and Competitive Programming
-- 🌱 I’m currently learning Web Scraping
+- 🌱 I’m currently learning Dynamic Programming and React Js
 - 📫 How to reach me : onlinedk2k@gmail.com
 
 <!---
