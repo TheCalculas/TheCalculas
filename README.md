@@ -3,21 +3,23 @@
 </div>
 <br>
 
-<h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 👋 Hi, I’m Dharmesh Sharma a MERN Developer with a good skillset in DSA
 - 👀 I’m interested in Website Development and Competitive Programming
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me : onlinedk2k@gmail.com
 
-<!---
-TheCalculas/TheCalculas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<h3>🤓 My Stats</h3>
-<div style="align-items:"center"">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCalculas&theme=onedark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheCalculas&theme=onedark" />
+<br>
+<h2 align = "center">🤓 My Stats</h2>
+<div align="center">
+<img  align="left" width="40%" display="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCalculas&theme=onedark" />
+<img  align="right" width="55%" src="https://github-readme-stats.vercel.app/api/?username=TheCalculas&theme=onedark" />
 </div>
+
+<br>
+<br>
+
+
 
