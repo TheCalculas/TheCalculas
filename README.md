@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)" width="100vw"/>
+</div>
+
 - 👋 Hi, I’m Dharmesh Sharma a MERN Developer with a good skillset in DSA
 - 👀 I’m interested in Website Development and Competitive Programming
 - 🌱 I’m currently learning Flutter
