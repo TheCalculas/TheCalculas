@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>🤓 My Stats</h3>
-<div>
+<div style="align-items:"center"">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCalculas&theme=onedark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheCalculas&theme=onedark" />
 </div>
