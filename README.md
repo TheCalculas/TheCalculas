@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dharmesh Sharma
+- 👋 Hi, I’m Dharmesh Sharma a MERN Developer with a good skillset in DSA
 - 👀 I’m interested in Website Development and Competitive Programming
-- 🌱 I’m currently learning Dynamic Programming and React Js
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me : onlinedk2k@gmail.com
 
 <!---
