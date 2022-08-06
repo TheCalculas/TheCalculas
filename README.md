@@ -3,12 +3,8 @@
 </div>
 <br>
 
-<center><h1>Hola!</h1></center>
-<center><h2>I'm Dharmesh Sharma</h2><center>
-<center><h4>CSE Junior MNIT</h4></center>
+\# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<br>
-<br>
 - 👋 Hi, I’m Dharmesh Sharma a MERN Developer with a good skillset in DSA
 - 👀 I’m interested in Website Development and Competitive Programming
 - 🌱 I’m currently learning Flutter
