@@ -15,10 +15,13 @@ TheCalculas/TheCalculas is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## I'm Glad to See you  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${TheCalculas.username}.${TheCalculas.repo.id})
+## I'm Glad to See you 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCalculas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCalculas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 <br>
 <h3>My Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheCalculas&theme=onedark" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheCalculas&theme=onedark" />**
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCalculas&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=TheCalculas&theme=onedark" />
