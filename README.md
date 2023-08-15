@@ -5,10 +5,10 @@
 
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-- 👋 Hi, I’m Dharmesh Sharma a MERN Stack Developer with a good skillset in DSA
-- 👀 I’m interested in App/Web Development and Competitive Programming
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me : onlinedk2k@gmail.com
+- 👋 Hey, I’m Dharmesh Sharma, a MERN Stack Developer with a good skillset in DSA
+- 👀 I’m interested in App/Web Development, Machine Learning, and Competitive Programming
+- 🌱 I’m currently learning Machine Learning 
+- 📫 Let's connect : onlinedk2k@gmail.com
 
 
 <br>
