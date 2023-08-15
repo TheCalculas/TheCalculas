@@ -8,7 +8,7 @@
 - 👋 Hey, I’m Dharmesh Sharma, a MERN Stack Developer with a good skillset in DSA
 - 👀 I’m interested in App/Web Development, Machine Learning, and Competitive Programming
 - 🌱 I’m currently learning Machine Learning 
-- 📫 Let's connect : onlinedk2k@gmail.com
+- 📫 Let's connect: onlinedk2k@gmail.com
 
 
 <br>
