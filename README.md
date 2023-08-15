@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 👋 Hey, I’m Dharmesh Sharma, a MERN Stack Developer with a good skillset in DSA
 - 👀 I’m interested in App/Web Development, Machine Learning, and Competitive Programming
